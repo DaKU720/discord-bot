@@ -9,7 +9,7 @@ It's a great idea for any type of roleplay/commercial discord servers. You can t
 4. Fill your token, prefix, command name and your discord bot management role. 
 
 
-Example: if your prefix is "!" and command "speak" type in your discord text channel:
+Example: if your prefix is "!", command "speak" and have discord role "bot_manager" type in your discord text channel:
 
 !speak [your text]
 
