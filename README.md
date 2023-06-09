@@ -1,10 +1,10 @@
 # Discord Python Roleplay
-It's a great idea for any type of roleplay/commercial discord servers. You can type as a bot. 👾
+It's a great idea for any type of roleplay/commercial discord servers. You can type as a bot (u can also paste pictures via imgur). 👾
 
 1. Create your bot application. https://discord.com/developers/applications
 2. Download and install python on your device. https://www.python.org/downloads/
 3. In your cmd: install discord.py
-4. Fill your token, prefix, command name, your discord bot management role. 
+4. Fill your token, prefix, command name and your discord bot management role. 
 
 
 Example: if your prefix is "!" and command "speak" type in your discord text channel:
