@@ -7,7 +7,7 @@ It's a great idea for any type of roleplay/commercial discord servers. You can t
 4. Fill your token, prefix, command name. 
 
 
-Example: if your prefix is "!" type in your discord text channel:
+Example: if your prefix is "!" and command "speak" type in your discord text channel:
 
 !speak [your text]
 
