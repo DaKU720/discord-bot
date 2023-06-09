@@ -1,5 +1,5 @@
 # Discord Python Roleplay
-It's a great idea for any type of commercial discord servers. You can actually type as a bot. 👾
+It's a great idea for any type of roleplay/commercial discord servers. You can type as a bot. 👾
 
 # 1. Example use: if your prefix is "!" type in your discord text channel:
 !speak [your text]
