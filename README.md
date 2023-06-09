@@ -4,8 +4,8 @@ It's a great idea for any type of commercial discord servers. You can actually t
 # 1. Example use: if your prefix is "!" type in your discord text channel:
 !speak [your text]
 
-![image](https://github.com/DaKU720/discord-bot/assets/69478926/c63ddbe9-a11c-44ae-b3f2-bb3e4a5b7c87)
+![image](https://github.com/DaKU720/discord-bot/assets/69478926/0725aef8-6aa6-46a8-aee2-564f836dddae)
 
-![image](https://github.com/DaKU720/discord-bot/assets/69478926/0ec94d04-52d6-4c90-a68f-8123a12473b4)
+![image](https://github.com/DaKU720/discord-bot/assets/69478926/f95d83f5-b360-4861-b888-8b80906406fa)
 
 
