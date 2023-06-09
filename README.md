@@ -1,4 +1,4 @@
-# Discord Python Roleplay
+# Discord Python Roleplay BOT
 It's a great idea for any type of roleplay/commercial discord servers. You can type as a bot (u can also paste pictures via imgur). 👾
 
 [ if you don't know how to setup discord python environment, there are a lot tutorials on youtube ]
