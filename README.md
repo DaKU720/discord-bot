@@ -17,7 +17,6 @@ Example: if your prefix is "!", command "speak" and have discord role "bot_manag
 
 ![image](https://github.com/DaKU720/discord-bot/assets/69478926/f95d83f5-b360-4861-b888-8b80906406fa)
 
-![image](https://github.com/DaKU720/discord-bot/assets/69478926/1c43f86c-46fd-43b6-bb76-d1a369c90dcc)
-
+![image](https://github.com/DaKU720/discord-bot/assets/69478926/72251991-5875-4279-addf-c16c5cfda037)
 
 
