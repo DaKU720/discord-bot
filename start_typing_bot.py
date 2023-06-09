@@ -17,7 +17,7 @@ async def on_ready():
     print("")
 
 
-@commands.has_role("bot_manager") # "bot_manager" Discord role to be in command of that command.      
+@commands.has_role("bot_manager") # "bot_manager" Discord role to be in command.      
 @bot.command() 
 async def speak(ctx, *, text): # "speak" command name.
         message = ctx.message
@@ -25,7 +25,7 @@ async def speak(ctx, *, text): # "speak" command name.
         await ctx.send(f"{text}")
 
 
-bot.run("") # paste your bot token.
+bot.run("") # paste your bot token inside.
 
 
 ### Different discord activities
